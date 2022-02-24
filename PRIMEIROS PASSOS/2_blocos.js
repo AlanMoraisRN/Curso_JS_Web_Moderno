@@ -1,0 +1,12 @@
+//BLOCOS DE CÓDIGO SÃO MANEIRAS DE ORGANIZAR SUAS PRIORIDADES DENTRO DE SEU CÓDIGO//
+{
+    console.log("PRIMEIRO BLOCO");
+}
+
+{
+    console.log("SEGUNDO BLOCO");
+}
+
+{
+    console.log("TERCEIRO BLOCO");
+}
