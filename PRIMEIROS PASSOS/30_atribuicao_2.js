@@ -2,7 +2,7 @@
 const curriculum = {
     nome: "Alan Morais",
     idade: 32,
-    altura: 1.64,
+    altura: 1.76,
     endereco: {
         logradouro: "Avenida José Gastel B Pereira",
         bairro: "Centro",
