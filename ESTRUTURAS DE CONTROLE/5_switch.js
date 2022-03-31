@@ -25,7 +25,7 @@ imprimirResultado (6.9);
 imprimirResultado (4.3);
 imprimirResultado (3.9);
 imprimirResultado (-1);
-imprimirResultado (11);
+imprimirResultado (11); 
 
 /**
  * UM ADENDO PARA O SWITCH...
