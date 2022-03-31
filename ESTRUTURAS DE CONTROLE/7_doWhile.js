@@ -5,7 +5,7 @@ function inteiroEntre (min, max){
     return Math.floor(valor);
 }
 
-let opcao = 0;
+let opcao; //DIFERENTE DO WHILE, O DO/WHILE NÃO EXIGE INICIALIZAÇÃO DA VARIÁVEL DE CONTROLE.
 
 do {
     opcao = inteiroEntre(-1, 10);
