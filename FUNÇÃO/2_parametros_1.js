@@ -1,4 +1,4 @@
-//USANDO FUNÇÕES E RETORNOS
+//USANDO PARÂMETROS EM FUNÇÕES - PASSAGEM POR PARÂMETRO
 
 function area (largura, altura){
     const area = largura * altura;

@@ -1,4 +1,6 @@
-function soma (){
+//USANDO PARÂMETROS EM FUNÇÕES - SEM PASSAGEM POR PARÂMETRO
+
+function soma(){
     let soma = 0;
     for (let i in arguments){
         soma += arguments[i];
