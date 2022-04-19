@@ -36,5 +36,5 @@ function soma (a, b){
 
 soma(2, 3)(4);
 
-const receber = soma (2, 3);
+const receber = soma (2, 3); //MESMA CHAMADA APENAS SENDO ARMAZENADA DENTRO DE UMA CONSTATNTE 
 receber(4);
