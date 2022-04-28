@@ -2,7 +2,7 @@
 
 const pessoa = {
     saudar: "Olá, bom dia!",
-    falar (){
+    falar(){
         console.log(this.saudar);
     }
 }
